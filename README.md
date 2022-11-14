@@ -10,9 +10,6 @@
 - 🎮 I've also made a small escape game on Unity [BLIP](https://github.com/SashelI/BLIP_Escape_Game)
 
 
-- 📱 And working on a phone app for a school project [CamPark](https://github.com/SashelI/CamPark_Alpha)
-
-
 - 👨‍💻 All of my projects are available at [https://github.com/SashelI](https://github.com/SashelI)
 
 
