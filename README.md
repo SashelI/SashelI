@@ -1,19 +1,22 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
-<h3 align="center">A french engineering student in Digital Imaging at ESIR. I’m interested in Mixed and Augmented Reality development.</h3>
+<h3 align="center">A french engineering intern at <b>Synergiz</b> and student in Digital Imaging at ESIR. I’m interested in Mixed and Augmented Reality development.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli" alt="sasheli" /></a> </p>
 
 
 - 🥽 I worked on a project with Microsoft's **HoloLens 2** for ÉTS Montréal [HoloLens2 Precision Tool](https://github.com/SashelI/Hololens2_Precision)
 
+- 🚗 As an end of studies project in partnership with the french DGA, I participated in the "SlaSHR" project, which aimed at implementing SLAM-VI algortihms on a MuSHR robot [SlaSHR](https://github.com/SashelI/SlaSHR)
 
 - 🎮 I've also made a small escape game on Unity [BLIP](https://github.com/SashelI/BLIP_Escape_Game)
+
+- 🤖 And worked as a school project on a Camera Pose Estimation algorithm, using homographies on a video with movement [ROBOTIC VISION PROJECT](https://github.com/SashelI/VROB1_TP)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SashelI](https://github.com/SashelI)
 
 
-- 👩‍🎓 After my studies, I intend on working in **AR, MR, Unity 3D, and C# programming**
+- 👩‍🎓 I intend on working in **AR, MR, Unity 3D, and C# programming**
 
 
 - 📫 Reach me at **bordin.amelie@gmail.com**
