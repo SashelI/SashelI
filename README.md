@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
 <h3 align="center">A french engineering intern at <b>Synergiz</b> and student in Digital Imaging at ESIR. I’m interested in Mixed and Augmented Reality development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli" alt="sasheli" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli" alt="sasheli" /></a> </p>
 
 
 - 🥽 I worked on a project with Microsoft's **HoloLens 2** for ÉTS Montréal [HoloLens2 Precision Tool](https://github.com/SashelI/Hololens2_Precision)
