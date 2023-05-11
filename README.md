@@ -3,6 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli" alt="sasheli" /></a> </p>
 
+<p align="center"><a target="_blank" title="Visit Informatics Europe" href="http://www.informatics-europe.org"><img src="http://www.informatics-europe.org/images/logos/logo-informatics-europe-member-60.png" alt="Ιnformatics Εurope member" height="60"/></a> </p>
 
 - 🥽 I worked on a project with Microsoft's **HoloLens 2** for ÉTS Montréal [HoloLens2 Precision Tool](https://github.com/SashelI/Hololens2_Precision)
 
