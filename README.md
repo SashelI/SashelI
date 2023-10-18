@@ -20,7 +20,7 @@
 - 👩‍🎓 Working with **AR, MR, Unity 3D, and C# programming**
 
 
-- 📫 Reach me at **bordin.amelie@gmail.com**
+- 📫 Reach me at **sashell.fx@gmail.com**
 
 
 - 📄 Check out my resume [https://www.linkedin.com/in/am%C3%A9lie-bordin/](https://www.linkedin.com/in/am%C3%A9lie-bordin/)
