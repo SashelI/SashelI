@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amélie</h1>
-<h3 align="center">A french engineering intern at <b>Synergiz</b> and student in Digital Imaging at ESIR. I’m interested in Mixed and Augmented Reality development.</h3>
+<h3 align="center">A french XR engineer at <b>Synergiz</b> and former student in Digital Imaging at ESIR. I’m interested in Mixed and Augmented Reality development.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli" alt="sasheli" /></a> </p>
 
@@ -17,7 +17,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/SashelI](https://github.com/SashelI)
 
 
-- 👩‍🎓 I intend on working in **AR, MR, Unity 3D, and C# programming**
+- 👩‍🎓 Working with **AR, MR, Unity 3D, and C# programming**
 
 
 - 📫 Reach me at **bordin.amelie@gmail.com**
