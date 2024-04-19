@@ -5,7 +5,7 @@
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sasheli&title=Experience,Issues,Commits,Repositories,Stars,PullRequest&theme=onestar" alt="sasheli" /></a> </p>
 
-- 👩‍🎓 Working with **AR, MR, Unity 3D, and C# programming** on **HoloLens2, MagicLeap 2, Meta Quest 3**
+- 👩‍🎓 Working with **AR, MR, Unity 3D, and C# programming** on **HoloLens2, MagicLeap 2, Meta Quest 3 and Apple Vision Pro**
 
 - 🥽 I worked on a project with Microsoft's **HoloLens 2** for ÉTS Montréal [HoloLens2 Precision Tool](https://github.com/SashelI/Hololens2_Precision)
 
