@@ -13,7 +13,7 @@
 
 - 🚗 As an end of studies project in partnership with the french DGA, I participated in the "SlaSHR" project, which aimed at implementing SLAM-VI algortihms on a MuSHR robot [SlaSHR](https://github.com/SashelI/SlaSHR)
 
-- 🎮 I've also made a small escape game on Unity [BLIP](https://github.com/SashelI/BLIP_Escape_Game)
+- 🎮 I've also made some games on Unity : an investigation demo for a special [Unity GameJam](https://github.com/SashelI/UnityGameJam20y), and a small escape game on Unity [BLIP](https://github.com/SashelI/BLIP_Escape_Game)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/SashelI](https://github.com/SashelI)
